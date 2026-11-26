@@ -14,6 +14,9 @@ HOW TO PUBLISH ON GITHUB PAGES
 4. Select Deploy from a branch → main → /(root) → Save.
 5. Wait for GitHub Pages to publish your website.
 
+![image alt](https://github.com/rsamridh07/samridh-raj-portfolio/blob/901828bbf093dd32accbba190ae74d84ee8ac595/samridh-profile.jpg).
+
+
 PERSONALISE BEFORE PUBLISHING
 - Replace the generic social profile links in index.html with your real LinkedIn, GitHub, Instagram and YouTube profile URLs.
 - Add any additional original certificate scans to the assets folder and update the image paths in index.html.
